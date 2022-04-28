@@ -9,6 +9,6 @@
     "id": "2",
     "email": "smith@gmail.com",
     "password": "123456",
-    "status": "active"
+    "status": "block"
   }
 ]
