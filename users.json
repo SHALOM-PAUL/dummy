@@ -1,13 +1,13 @@
 [
   {
     "id": "1",
-    "email": "shalompaul.macharla@gmail.com",
+    "email": "john@gmail.com",
     "password": "123456",
     "status": "active"
   },
   {
     "id": "2",
-    "email": "john@gmail.com",
+    "email": "smith@gmail.com",
     "password": "123456",
     "status": "active"
   }
