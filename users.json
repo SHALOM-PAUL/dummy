@@ -3,6 +3,6 @@
     "id": "1",
     "email": "john@gmail.com",
     "password": "123456",
-    "status": "active"
+    "status": "block"
   }
 ]
